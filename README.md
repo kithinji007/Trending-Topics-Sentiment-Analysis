@@ -1,0 +1,1 @@
+Twitter is a great playground for sentiment models, as some tweets aren’t always what they seem. There is a lot of sarcasm and shade, people are using the platform to express some very real and complex emotions. As you can see below, by using a Deep Neural Network built in Trax we will be able to successfully predict even difficult tweets!
